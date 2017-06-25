@@ -1,0 +1,201 @@
+[21:52:53] [Server thread/INFO]: Loading properties
+[21:52:53] [Server thread/INFO]: Default game type: SURVIVAL
+[21:52:53] [Server thread/INFO]: Generating keypair
+[21:52:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:52:54] [Server thread/INFO]: Using default channel type
+[21:52:55] [Server thread/INFO]: Preparing level "world"
+[21:52:56] [Server thread/INFO]: [STDERR]: java.util.zip.ZipException: Not in GZIP format
+[21:52:56] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+[21:52:56] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+[21:52:56] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+[21:52:56] [Server thread/INFO]: [STDERR]: 	at gi.a(SourceFile:25)
+[21:52:56] [Server thread/INFO]: [STDERR]: 	at bfk.a(SourceFile:49)
+[21:52:56] [Server thread/INFO]: [STDERR]: 	at om.b(SourceFile:144)
+[21:52:56] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.a(SourceFile:281)
+[21:52:56] [Server thread/INFO]: [STDERR]: 	at nx.j(SourceFile:230)
+[21:52:56] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(SourceFile:434)
+[21:52:56] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Unknown Source)
+[21:52:56] [Server thread/INFO]: Loaded 488 advancements
+[21:52:57] [Server thread/INFO]: [STDERR]: java.util.zip.ZipException: Not in GZIP format
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at gi.a(SourceFile:25)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at bfk.a(SourceFile:49)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at oi.b(SourceFile:72)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.a(SourceFile:285)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at nx.j(SourceFile:230)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(SourceFile:434)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Unknown Source)
+[21:52:57] [Server thread/INFO]: [STDERR]: java.util.zip.ZipException: Not in GZIP format
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at gi.a(SourceFile:25)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at bfk.a(SourceFile:49)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at oi.b(SourceFile:72)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.a(SourceFile:285)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at nx.j(SourceFile:230)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(SourceFile:434)
+[21:52:57] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Unknown Source)
+[21:52:57] [Server thread/INFO]: Preparing start region for level 0
+[21:52:58] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:59] [Server thread/INFO]: Preparing spawn area: 2%
+[21:53:00] [Server thread/INFO]: Preparing spawn area: 17%
+[21:53:01] [Server thread/INFO]: Preparing spawn area: 46%
+[21:53:02] [Server thread/INFO]: Preparing spawn area: 73%
+[21:53:02] [Server thread/INFO]: Done (7.154s)! For help, type "help" or "?"
+[21:55:28] [User Authenticator #1/INFO]: UUID of player DrunkChewbacca is bc86c107-dd41-496d-82c8-a69efd52ba1e
+[21:55:28] [Server thread/INFO]: DrunkChewbacca[/2601:681:4003:282b:5158:7a5c:8fdd:182d:50903] logged in with entity id 486 at (-164.30350245360236, 97.0, 162.30000001192093)
+[21:55:28] [Server thread/INFO]: DrunkChewbacca joined the game
+[21:55:46] [User Authenticator #2/INFO]: UUID of player LIV3NDEAD is ca446e89-b90b-4234-8d38-cf4bea2868a7
+[21:55:46] [Server thread/INFO]: LIV3NDEAD[/67.161.250.153:49282] logged in with entity id 803 at (-167.4479459440005, 98.0, 135.96268841981677)
+[21:55:46] [Server thread/INFO]: LIV3NDEAD joined the game
+[21:55:54] [Server thread/INFO]: Opped drunkchewbacca
+[21:56:41] [Server thread/INFO]: [DrunkChewbacca: Given [Iron Boots] * 1 to DrunkChewbacca]
+[21:57:49] [User Authenticator #3/INFO]: UUID of player Avintiquin is b5f47ce9-e4a3-403d-b81f-9a638e957cb3
+[21:57:49] [Server thread/INFO]: Avintiquin[/24.10.219.43:53298] logged in with entity id 2260 at (-190.44498676590695, 107.0, 146.64478075781415)
+[21:57:49] [Server thread/INFO]: Avintiquin joined the game
+[22:00:57] [Server thread/INFO]: [DrunkChewbacca: Given [Cobblestone] * 64 to DrunkChewbacca]
+[22:06:03] [Server thread/INFO]: [DrunkChewbacca: Teleported Avintiquin to DrunkChewbacca]
+[22:06:18] [User Authenticator #4/INFO]: UUID of player GildedFish is 3b66ceeb-b0bb-4983-8aee-409d9d3101b7
+[22:06:18] [Server thread/INFO]: GildedFish[/71.199.2.201:53739] logged in with entity id 11743 at (-153.63887236753894, 106.0, 145.8528197326035)
+[22:06:18] [Server thread/INFO]: GildedFish joined the game
+[22:06:20] [Server thread/INFO]: [DrunkChewbacca: Teleported DrunkChewbacca to LIV3NDEAD]
+[22:06:51] [Server thread/INFO]: [DrunkChewbacca: Teleported Avintiquin to DrunkChewbacca]
+[22:08:13] [Server thread/INFO]: [DrunkChewbacca: Given 10 levels to DrunkChewbacca]
+[22:08:19] [Server thread/INFO]: [DrunkChewbacca: Given 10 levels to DrunkChewbacca]
+[22:08:55] [Server thread/INFO]: GildedFish drowned
+[22:09:43] [Server thread/INFO]: [DrunkChewbacca: Given [Sugar Canes] * 32 to DrunkChewbacca]
+[22:11:03] [Server thread/INFO]: [DrunkChewbacca: Given [Iron Ingot] * 32 to DrunkChewbacca]
+[22:14:09] [Server thread/INFO]: GildedFish has made the advancement [Suit Up]
+[22:16:03] [Server thread/INFO]: [DrunkChewbacca: Given [Sand] * 64 to DrunkChewbacca]
+[22:17:05] [Server thread/WARN]: DrunkChewbacca moved wrongly!
+[22:19:57] [Server thread/INFO]: [DrunkChewbacca: Set own game mode to Creative Mode]
+[22:22:27] [Server thread/INFO]: [DrunkChewbacca: Teleported Avintiquin to DrunkChewbacca]
+[22:33:39] [Server thread/INFO]: LIV3NDEAD lost connection: Disconnected
+[22:33:39] [Server thread/INFO]: LIV3NDEAD left the game
+[22:35:46] [Server thread/INFO]: <GildedFish> hi
+[22:36:35] [Server thread/INFO]: GildedFish has made the advancement [Enchanter]
+[22:36:48] [Server thread/INFO]: [DrunkChewbacca: Set Avintiquin's game mode to Creative Mode]
+[22:42:16] [Server thread/INFO]: [DrunkChewbacca: Set own game mode to Survival Mode]
+[22:44:13] [Server thread/INFO]: [DrunkChewbacca: Given [Wheat] * 64 to DrunkChewbacca]
+[22:44:27] [Server thread/INFO]: [DrunkChewbacca: Set Avintiquin's game mode to Survival Mode]
+[22:45:47] [Server thread/INFO]: [DrunkChewbacca: Given [Leather] * 10 to DrunkChewbacca]
+[22:46:47] [Server thread/INFO]: Avintiquin has made the advancement [Cover Me With Diamonds]
+[22:50:38] [Server thread/INFO]: [DrunkChewbacca: Given 20 levels to DrunkChewbacca]
+[22:51:15] [Server thread/INFO]: <Avintiquin> hi
+[22:51:19] [Server thread/INFO]: <DrunkChewbacca> zzzzzzzzz
+[22:51:33] [Server thread/INFO]: <GildedFish> hiiiiiiiiiiiiiiiiiiiiiiii
+[22:53:31] [User Authenticator #5/INFO]: UUID of player LIV3NDEAD is ca446e89-b90b-4234-8d38-cf4bea2868a7
+[22:53:31] [Server thread/INFO]: LIV3NDEAD[/67.161.250.153:50726] logged in with entity id 65119 at (-166.61674454309272, 98.0, 136.21857359873383)
+[22:53:31] [Server thread/INFO]: LIV3NDEAD joined the game
+[22:53:37] [Server thread/INFO]: [DrunkChewbacca: Given [Iron Hoe] * 1 to DrunkChewbacca]
+[22:57:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2126ms behind, skipping 42 tick(s)
+[22:57:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4370ms behind, skipping 87 tick(s)
+[22:57:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2352ms behind, skipping 47 tick(s)
+[22:58:13] [Server thread/INFO]: [DrunkChewbacca: Saved the world]
+[22:58:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4703ms behind, skipping 94 tick(s)
+[22:58:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3351ms behind, skipping 67 tick(s)
+[22:59:29] [Server thread/INFO]: [DrunkChewbacca: Given [Ladder] * 64 to DrunkChewbacca]
+[22:59:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3432ms behind, skipping 68 tick(s)
+[23:00:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4338ms behind, skipping 86 tick(s)
+[23:00:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2020ms behind, skipping 40 tick(s)
+[23:00:53] [Server thread/INFO]: [DrunkChewbacca: Set own game mode to Creative Mode]
+[23:00:57] [Server thread/INFO]: [DrunkChewbacca: Set own game mode to Survival Mode]
+[23:01:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4047ms behind, skipping 80 tick(s)
+[23:01:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4741ms behind, skipping 94 tick(s)
+[23:01:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2394ms behind, skipping 47 tick(s)
+[23:02:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8813ms behind, skipping 176 tick(s)
+[23:02:22] [Server thread/INFO]: Avintiquin has made the advancement [Best Friends Forever]
+[23:02:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6626ms behind, skipping 132 tick(s)
+[23:02:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8181ms behind, skipping 163 tick(s)
+[23:02:53] [Server thread/INFO]: [DrunkChewbacca: Given [Saddle] * 1 to Avintiquin]
+[23:02:59] [Server thread/INFO]: [DrunkChewbacca: Given [Saddle] * 1 to GildedFish]
+[23:03:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3428ms behind, skipping 68 tick(s)
+[23:03:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2393ms behind, skipping 47 tick(s)
+[23:05:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2059ms behind, skipping 41 tick(s)
+[23:06:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2837ms behind, skipping 56 tick(s)
+[23:07:03] [Server thread/INFO]: [DrunkChewbacca: Given [Diamond Pickaxe] * 1 to DrunkChewbacca]
+[23:07:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2507ms behind, skipping 50 tick(s)
+[23:07:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2130ms behind, skipping 42 tick(s)
+[23:13:57] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! -5.294254252398105,1.0,-8.755320566936348
+[23:13:57] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! -5.602267225796368,1.0,-8.748931869212697
+[23:13:57] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! -5.879694374819792,1.0,-8.616168985792797
+[23:13:57] [Server thread/WARN]: Avintiquin moved too quickly! -4.029357900323134,0.756759288177264,-9.294517041635004
+[23:13:57] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! -6.128444446317417,1.0,-8.406021332526734
+[23:14:37] [Server thread/INFO]: [DrunkChewbacca: Teleported Avintiquin to LIV3NDEAD]
+[23:16:03] [Server thread/INFO]: [DrunkChewbacca: Set LIV3NDEAD's game mode to Creative Mode]
+[23:16:30] [Server thread/INFO]: [DrunkChewbacca: Given [Glass] * 64 to Avintiquin]
+[23:17:02] [Server thread/INFO]: [DrunkChewbacca: Teleported Avintiquin to GildedFish]
+[23:18:27] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 0.6920776472982197,0.0,-10.273691332504427
+[23:18:27] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 0.7794096696791257,0.0,-10.63112786184297
+[23:18:27] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 0.8883059174137315,0.0,-10.982221031321274
+[23:18:27] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 1.0206718139354507,0.0,-11.324750633581516
+[23:18:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2956ms behind, skipping 59 tick(s)
+[23:19:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2516ms behind, skipping 50 tick(s)
+[23:19:14] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 3.906833045249982,3.0,-9.085558088836933
+[23:19:14] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 3.9974702233910193,3.0,-9.442329957493143
+[23:19:14] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 4.0823561193201385,3.0,-9.80082673844322
+[23:19:14] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 4.1641646188058985,3.0,-10.160246485570724
+[23:19:14] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 4.24782108513466,3.0,-10.519363015484487
+[23:19:14] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 4.338990410422298,3.0,-10.876621145437298
+[23:19:14] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 4.441897456539209,3.0,-11.23051825040045
+[23:19:14] [Server thread/WARN]: Avintiquin moved too quickly! 7.976179613251816,-1.0,-6.054667444977326
+[23:19:14] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 4.55869829393896,3.0,-11.579883856324045
+[23:19:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4401ms behind, skipping 88 tick(s)
+[23:19:49] [Server thread/INFO]: [DrunkChewbacca: Given [Ladder] * 64 to DrunkChewbacca]
+[23:20:01] [Server thread/WARN]: LIV3NDEAD moved too quickly! 6.598032743949403,8.091417946071285,-0.028972284868359566
+[23:20:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2581ms behind, skipping 51 tick(s)
+[23:20:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4617ms behind, skipping 92 tick(s)
+[23:21:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2028ms behind, skipping 40 tick(s)
+[23:22:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2038ms behind, skipping 40 tick(s)
+[23:22:31] [Server thread/INFO]: [DrunkChewbacca: Given [Diamond] * 10 to DrunkChewbacca]
+[23:22:37] [Server thread/INFO]: [DrunkChewbacca: Teleported DrunkChewbacca to LIV3NDEAD]
+[23:23:49] [Server thread/WARN]: LIV3NDEAD moved too quickly! 6.8753609708413705,7.875000312923795,0.014797611103858799
+[23:23:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2038ms behind, skipping 40 tick(s)
+[23:23:55] [Server thread/INFO]: [DrunkChewbacca: Given [Diamond] * 10 to DrunkChewbacca]
+[23:23:56] [Server thread/INFO]: [DrunkChewbacca: Given [Diamond] * 10 to DrunkChewbacca]
+[23:24:34] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! -9.676460451576816,0.0,3.5976010111041887
+[23:24:34] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! -10.027106679828705,0.0,3.712143529570767
+[23:24:34] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! -10.37775413608091,0.0,3.826682619526082
+[23:25:37] [Server thread/INFO]: [DrunkChewbacca: Given 25 levels to DrunkChewbacca]
+[23:25:58] [Server thread/INFO]: [DrunkChewbacca: Given [Lapis Lazuli Ore] * 64 to DrunkChewbacca]
+[23:26:18] [Server thread/INFO]: [DrunkChewbacca: Given [Lapis Lazuli Block] * 64 to DrunkChewbacca]
+[23:27:36] [Server thread/WARN]: Donkey moved wrongly!
+[23:27:36] [Server thread/WARN]: Donkey moved wrongly!
+[23:30:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2136ms behind, skipping 42 tick(s)
+[23:30:51] [Server thread/INFO]: [DrunkChewbacca: Given [Bricks] * 1 to DrunkChewbacca]
+[23:31:06] [Server thread/INFO]: [DrunkChewbacca: Given [Stone] * 64 to DrunkChewbacca]
+[23:31:08] [Server thread/INFO]: [DrunkChewbacca: Given [Stone] * 64 to DrunkChewbacca]
+[23:31:09] [Server thread/INFO]: [DrunkChewbacca: Given [Stone] * 64 to DrunkChewbacca]
+[23:31:10] [Server thread/INFO]: [DrunkChewbacca: Given [Stone] * 64 to DrunkChewbacca]
+[23:31:11] [Server thread/INFO]: [DrunkChewbacca: Given [Stone] * 64 to DrunkChewbacca]
+[23:31:11] [Server thread/INFO]: [DrunkChewbacca: Given [Stone] * 64 to DrunkChewbacca]
+[23:31:12] [Server thread/INFO]: [DrunkChewbacca: Given [Stone] * 64 to DrunkChewbacca]
+[23:31:13] [Server thread/INFO]: [DrunkChewbacca: Given [Stone] * 64 to DrunkChewbacca]
+[23:31:13] [Server thread/INFO]: [DrunkChewbacca: Given [Stone] * 64 to DrunkChewbacca]
+[23:31:14] [Server thread/INFO]: [DrunkChewbacca: Given [Stone] * 64 to DrunkChewbacca]
+[23:32:04] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 5.662107167978505,3.0,-8.107067981037744
+[23:32:04] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 5.816949727190988,3.0,-8.441874090877036
+[23:32:04] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 5.955546952781887,2.9231679985046384,-8.783209830639407
+[23:32:04] [Server thread/WARN]: Donkey (vehicle of GildedFish) moved too quickly! 6.033556538759498,2.772546541336993,-8.982564286718798
+[23:32:58] [Server thread/INFO]: [DrunkChewbacca: Given [Enchantment Table] * 1 to DrunkChewbacca]
+[23:34:59] [Server thread/INFO]: [DrunkChewbacca: Set LIV3NDEAD's game mode to Survival Mode]
+[23:35:59] [Server thread/INFO]: [DrunkChewbacca: Teleported DrunkChewbacca to LIV3NDEAD]
+[23:36:44] [Server thread/INFO]: [DrunkChewbacca: Given [Bread] * 12 to DrunkChewbacca]
+[23:37:19] [Server thread/WARN]: Donkey moved wrongly!
+[23:37:56] [Server thread/INFO]: [DrunkChewbacca: Given [Wheat] * 10 to DrunkChewbacca]
+[23:39:41] [Server thread/INFO]: [DrunkChewbacca: Set Avintiquin's game mode to Survival Mode]
+[23:40:13] [Server thread/INFO]: [DrunkChewbacca: Saved the world]
+[23:40:15] [Server thread/INFO]: DrunkChewbacca lost connection: Disconnected
+[23:40:15] [Server thread/INFO]: DrunkChewbacca left the game
+[23:40:18] [Server thread/INFO]: Avintiquin lost connection: Disconnected
+[23:40:18] [Server thread/INFO]: Avintiquin left the game
+[23:41:01] [Server thread/INFO]: GildedFish lost connection: Disconnected
+[23:41:01] [Server thread/INFO]: GildedFish left the game
+[23:41:03] [Server thread/INFO]: LIV3NDEAD lost connection: Disconnected
+[23:41:03] [Server thread/INFO]: LIV3NDEAD left the game
+[23:41:07] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[23:41:12] [Server thread/INFO]: Saving...
+[23:41:12] [Server thread/INFO]: Saved the world
